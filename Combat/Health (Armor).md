@@ -1,0 +1,1 @@
+Without any Armor Points the creature is basically helpless and at the mercy of their enemies, being able to be killed without extra effort by them.

@@ -1,0 +1,1 @@
+While tripped a target is unable to move.

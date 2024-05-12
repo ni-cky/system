@@ -1,0 +1,1 @@
+Off balance reduces your current armor points by X.

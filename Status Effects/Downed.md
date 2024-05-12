@@ -1,0 +1,1 @@
+While downed a target is laying on the ground and tripped.

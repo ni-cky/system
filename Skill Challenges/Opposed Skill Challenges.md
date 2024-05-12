@@ -1,0 +1,1 @@
+In Opposed skill challenges all individuals taking part in the challenge roll a normal skill challenge. Successes cancel each other one to one. The winner is either the individual or group of individuals with remaining successes, or the who were challenged (meets it beats it). 

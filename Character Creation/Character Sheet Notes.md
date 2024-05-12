@@ -1,0 +1,2 @@
+- Add two boxed lines 1-20 that mark skilled and unskilled standard dcs and all possible advantages/disadvantages
+- Luck Counter - Luck max
