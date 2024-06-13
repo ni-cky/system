@@ -1,29 +1,29 @@
-Tiny dipshit
+**Tiny dipshit**
 Any target larger than you counts as climbable for you.
 
-Vaulter
+**Vaulter**
 Your jump distance is tripled in any direction.
 
-Lucky
+**Lucky**
 Your Luck increases by 1.
 
-Way too Lucky
+**Way too Lucky**
 When rolling a skill challenge with Luck you are always considered skilled in the challenge. If you fail the challenge you are considered to have not succeeded any of the dice throws.
 
-Ready
+**Ready**
 You cannot be suprised.
 
-Deep with the Bones
+**Deep with the Bones**
 You learn two marrowing spells.
 
-Hot Shot
+**Hot Shot**
 When rolling a ranged attack challenge while in the air, you may add one success to the challenge.
 
-Strong Skin
+**Strong Skin**
 Requirement: Body 3
 Your hit points increase by 20.
 
-Strong Bones
+**Strong Bones**
 Requirement: Body 5
 The damage you take from marrowing incantations is halfed.
 
@@ -35,23 +35,23 @@ When rolling a skill challenge with Experience you may reroll one dice. You have
 Requirement: Experience 4
 You are skilled in 2 additional talents.
 
-Rapid
+**Rapid**
 Requirement: Speed 3
 Your action point maximum increases by 2.
 
-Nimble Footing
+**Nimble Footing**
 Requirement: Speed 3
 You are able to spend 1 Action Point to move 5 feet.
 
-Kiting
+**Kiting**
 Requirement: Speed 4
 Any attack rolls made against you while the attacker is staggered are made at +5 difficulty.
 
-Energetic
+**Energetic**
 Requirement: Speed 4
 At the start of your turn you regain half of your used Action Points
 
-Wallrunning
+**Wallrunning**
 Requirement: Speed 5
 You can run up vertial surfaces during your turn. You are only affected by gravity during this if you want to or as soon as your turn ends.
 

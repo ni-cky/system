@@ -1,3 +1,5 @@
+Choose a species.
+
 Every Base stat starts with one point. You can distribute 10 points on any of the base stats up to a maximum of 5 points in a single stat. (3 is average for a normal human)
 
 Your health points are equal to your body stat times 20(?).
@@ -8,9 +10,9 @@ Your starting Luck stat (before modifications) is 3.
 
 Your new character is [[skilled]] in two [[Weapon|weapons]], one [[profession]] and two [[Talent|talents]].
 
-Distribute 3 points on any talent.
+Distribute 3 points on any talent pools.
 
-You know the reactive actions "Reposition" and "Help".
+You know the reactive actions "Reposition", "Help" and "Panic".
 
 You may choose one type of additional reactive action or choose a marrowing incantation.
 

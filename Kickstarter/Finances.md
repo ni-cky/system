@@ -1,0 +1,8 @@
+- 300 Pounds per artpiece
+	- Title page
+	- Inner front page
+	- Grassfolk
+	- Folk
+	- Treefolk
+	- Marrowwitch
+	- PAge embroidery

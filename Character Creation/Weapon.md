@@ -19,11 +19,14 @@ Greathammer: 4d20 6AP
 | ------------- | ------------- | ---- | -------------------------------------- | -------------------------------------------------------- |
 | Dagger        | 3 AP          | 1d20 | Force                                  | Wounding (1)                                             |
 | Shortsword    | 3 AP          | 2d20 | Force                                  | -                                                        |
+| Nunchucks     | 4 Ap          | 2d20 | Force                                  | Momentum                                                 |
 | Katana        | 4 AP          | 3d20 | Force                                  | Wounding (1)                                             |
-| Longsword     | 4 AP          | 3d20 | Force                                  |                                                          |
-| Whip          | 3 AP          | 2d20 | Force                                  | Ranged (10)                                              |
+| Longsword     | 4 AP          | 3d20 | Force                                  | Half-Swording (2)                                        |
+| Spear         | 4 AP          | 3d20 | Force                                  | Ranged (60), Two Handed (+2)                             |
+| Whip          | 3 AP          | 2d20 | Force                                  | Ranged (10), Tripping                                    |
 | Chain-whip    | 4 AP          | 3d20 | Force                                  | Ranged (10), Bludgeoning                                 |
-| Greathammer   | 6 AP          | 4d20 | Force                                  | Two Handed (+4), Heavy                                   |
+| Great Club    | 6 AP          | 4d20 | Force                                  | Two Handed (+2), Heavy, Bludgeoning, Simple              |
+| Greathammer   | 6 AP          | 4d20 | Force                                  | Two Handed (+4), Heavy, Bludgeoning                      |
 | Hand Crossbow | 4 AP          | 2d20 | Choose Body, Speed, Feel or Experience | Ranged (210), Recoil (1), Reload                         |
 | Crossbow      | 6 AP          | 4d20 | Choose Body, Speed, Feel or Experience | Two Handed (+5), Heavy, Ranged (210), Recoil (1), Reload |
 | Hunting Bow   | 5 Ap          | 2d20 | Force                                  | Two Handed (+5), Heavy, Ranged (150)                     |
@@ -33,12 +36,14 @@ Greathammer: 4d20 6AP
 | Bone Necklace | 3 AP          | 2d20 | Experience                             | Marrow, Ranged (60)                                      |
 **Special attributes:**
 - Bludgeoning: Ignores armor points, but the target can cast any marrowing invocation as a reactive action, using the succeses of the attack.
+- Half-Swording (X): You can reduce your dice pool by up to X dice and the difficulty is decreased by that number.
 - Heavy: You are only able to carry a single heavy weapon.
 - Marrow: When this weapon breaks, a marrowing wraith appears. (not good)
+- Momentum: The AP costs of any attack made with this weapon is reduced by the number of attacks previously made this round using the same weapon.
 - Ranged (X): You can attack with this weapon inside the range of X feet.
 - Recoil (X): When you make an attack, apply Off Balance (X) to yourself.
 - Reload: After a shot you need to reload your weapon using the Reload Action.
-- Single Blade:
+- Simple: If you roll no failures in an attack challenge using this weapon, the weapon breaks.
 - Tripping: Trips the target until the end of the round.
 - Two Handed (+X): If you only use one hand to wield this weapon you have +X difficulty.
 - Weirding. Targets hit with this weapon are unable to take reactive actions for the rest of the round.

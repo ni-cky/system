@@ -1,0 +1,2 @@
+- Character as art in the rules book
+- Mention

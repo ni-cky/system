@@ -1,0 +1,16 @@
+- Crossbows -> Impression?
+- Feedback:
+	- Easy to pick up/intuitive
+	- Pay attention
+	- d20s!!!
+	- Non combat abilities
+	- "Level 1" Power level gud
+		- Lot of room to improove
+		- but still hits hard
+	- Reactions forgettable(?)
+	- Species system
+		- creative freedome
+- Marrow witch encounter completely stomped
+	- Sekiro research about phases?
+- Reaction move broaden?
+- 
