@@ -1,0 +1,1 @@
+- Name "Dice" of Weapons "Pool" as well

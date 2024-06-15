@@ -72,7 +72,7 @@ Target: Any object or creature you can perceive and know the location of.
 - Base Stat: Intelligence
 - Effect: A number of targets equal to the successes take a different appearance. This effect lasts for an hour.
 
-**Stabalize**
+**Stabilize**
 - Action Points: 4
 - Type: Preventive Reactive Action (Target loosing a poise point)
 - Base Stat: Intelligence

@@ -11,7 +11,7 @@ Your Luck increases by 1.
 When rolling a skill challenge with Luck you are always considered skilled in the challenge. If you fail the challenge you are considered to have not succeeded any of the dice throws.
 
 **Ready**
-You cannot be suprised.
+You cannot be surprised.
 
 **Deep with the Bones**
 You learn two marrowing spells.

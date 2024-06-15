@@ -1,12 +1,23 @@
-Waiting strike: (Reactive Action)
--   You attack the target once after they took a move action.
-Retaliating strike: (Reactive Action)
--   You attack the target once after they took an attack action.
-Persue: (Reactive Action) \[2-6 AP]
-- Take a move action after the target took a move action.
-Reposition: (Reactive Action) \[2-6 AP]
-- Take a move action after the target took an attack action.
-Panic: (Reactive Action) \[3 AP]
-- React to any action being taken in a minor way that does not last longer than a second.
-Dodge: (Reactive Action) \[2 AP]
-- React to any action being taken by moving 10 feet.
+·         **Dodge \[2 AP]**  
+_Trigger_: Any action  
+_Action:_ Move 10 feet.
+
+·         **Panic \[1 AP]** 
+_Trigger_: Any action  
+_Action:_ Do anything not taking longer than a second.
+
+·         **Persue \[Movement AP]** 
+_Trigger_: Any Movement Action  
+_Action:_ Do any movement Action.
+
+·         **Reposition \[Movement AP]** 
+_Trigger_: Any Attack Action  
+_Action:_ Do any movement Action.
+
+·         **Retaliating Strike \[Weapon AP]** 
+_Trigger_: Any Attack Action  
+_Action:_ Do any attack Action targeting the triggering target.
+
+**Waiting Strike \[Weapon AP]** 
+_Trigger_: Any Movement Action  
+_Action:_ Do any attack Action targeting the triggering target.

@@ -1,8 +1,13 @@
-Attack of opportunity: (Preventive Action)\[Costs AP according to the weapon used]
--   You attack the target once before they take a move action.
-Parry: (Preventive Action) \[Costs AP according to the weapon used]
-* You give up all sense of positioning and parry the incoming attack action of an attacker. Make an attack with a melee weapon you are holding. The attack is at disadvantage by the size of the inital attacks dice pool. Each success cancels out one success of the inital attack.
-	* If the inital attack has no successes left, treat your own attack as dealing damage as usual.
-	* If the inital attack has successes left, the attack is treated as if you do not have armor points and deals damage to hit points.
-Just Don't: (Preventive Action) \[4AP]
-- You decrease the successes of an incoming attack by one for every success in an (Impression - Convince) skill challenge by yourself.
+·         **Attack of Opportunity \[Weapon AP]**  
+_Trigger_: Any Movement Action  
+_Action:_ Do any attack Action targeting the triggering target.
+
+·         **Just Don’t \[4 AP]**  
+_Trigger_: Any Attack Action against you  
+_Action:_ Decrease the successes of an incoming attack by one for every success in an _Impression (Convince)_ skill challenge.
+
+·         **Parry \[Weapon AP]**  
+_Trigger_: Any Attack Action against you  
+_Action:_ Give up all sense of positioning and parry the incoming attack action of an attacker. Take an attack action with a melee weapon you are holding. The attack challenge is at disadvantage by the size of the initial attacks dice pool. Each success cancels out one success of the initial attack.  
+_If the initial attack has no successes left_, treat your own attack as dealing damage as usual.  
+ _If the initial attack has successes left_, the attack is treated as if you do not have Poise left and deals damage to hit points.
