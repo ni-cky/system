@@ -12,7 +12,7 @@ Your new character is [[skilled]] in two [[Weapon|weapons]], one [[profession]] 
 
 Distribute 3 points on any talent pools.
 
-You know the reactive actions "Reposition", "Help" and "Panic".
+You know the reactive actions "Dodge", "Help" and "Panic".
 
 You may choose one type of additional reactive action or choose a marrowing incantation.
 

@@ -1,0 +1,18 @@
+https://drive.google.com/file/d/11Oap6pzj7hvhDFR4L7RDsr5_Cby4pFxc/view
+- Introduction
+- Character Creation Checklist
+- Leveling Up
+- Races
+- Backgrounds
+- Ability Scores and Skills
+- Traits
+	- Optional Advantages/Disadvantages
+- Perks
+	- Abilities
+- Items and Cost
+- Movement
+- The Enviroment
+- Combat
+- Conditions
+- GM Section
+- Statblocks

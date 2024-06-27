@@ -1,0 +1,2 @@
+- Encourage players to "Potion store" backstory
+- Reward for having nothing left to tell

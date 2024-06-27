@@ -17,7 +17,7 @@ Greathammer: 4d20 6AP
 
 | Name          | Action Points | Dice | Base Stat                              | Attributes                                               |
 | ------------- | ------------- | ---- | -------------------------------------- | -------------------------------------------------------- |
-| Dagger        | 3 AP          | 1d20 | Force                                  | Wounding (1)                                             |
+| Dagger        | 3 AP          | 1d20 | Force                                  | Wounding (1), Ranged (30)                                |
 | Shortsword    | 3 AP          | 2d20 | Force                                  | -                                                        |
 | Nunchucks     | 4 Ap          | 2d20 | Force                                  | Momentum                                                 |
 | Katana        | 4 AP          | 3d20 | Force                                  | Wounding (1)                                             |
@@ -39,7 +39,7 @@ Greathammer: 4d20 6AP
 - Half-Swording (X): You can reduce your dice pool by up to X dice and the difficulty is decreased by that number.
 - Heavy: You are only able to carry a single heavy weapon.
 - Marrow: When this weapon breaks, a marrowing wraith appears. (not good)
-- Momentum: The AP costs of any attack made with this weapon is reduced by the number of attacks previously made this round using the same weapon.
+- Momentum: The AP costs of any attack made with this weapon is reduced by the number of attacks previously made this round using the same weapon (to a minimum of 1 AP).
 - Ranged (X): You can attack with this weapon inside the range of X feet.
 - Recoil (X): When you make an attack, apply Off Balance (X) to yourself.
 - Reload: After a shot you need to reload your weapon using the Reload Action.

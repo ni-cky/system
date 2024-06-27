@@ -1,0 +1,18 @@
+https://online.anyflip.com/sqtpd/mcdg/mobile/index.html
+- Introducation
+- Lovecraft adn the Cuthullu Mythos
+- Crating Invetigators
+- Skills
+- Game System
+- Combat
+- Chases
+- Sanity
+- Magic
+- Playing the Game
+- Tomes of Eldritsch Lore
+- Grimoire
+- Artifacts and Alien Devices
+- Monsters, beast and Alien Gods
+- Scenarios
+- Appendices
+- Index

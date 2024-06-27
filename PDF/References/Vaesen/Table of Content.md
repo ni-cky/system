@@ -1,0 +1,47 @@
+https://online.anyflip.com/btqyh/yfha/mobile/index.html
+- Introduction
+	- Introduction to Vaesen
+		- Lore blurp
+	- This Book
+	- Vaesen in a nutshell
+		- System description
+- Your Player Character
+	- Personality
+	- characteristics
+	- Miscellaneous
+	- Archetypes
+- Skills
+	- Skill Tests
+		- Rules of dice
+	- The Skills
+		- List of skill descriptions
+- Talents
+		- List of all talents listed by archetype
+- Conflict and Injuries
+	- Combat
+		- Initative
+		- Distancing
+	- Actions in Combat
+	- Injuries
+	- Special effects
+		- Status Effects
+	- Healing Injuries
+	- Equipment
+- The Society and the Headquarters
+	- History
+		- Lore
+	- Cakpaign Rules
+		- Rules for longer campaigns
+- The mythic North and Upsala
+	- Your Mythic North
+		- In depth Social, time and lore placement
+	- Upsala
+		- Twon description
+- Vaesen
+	- Rules, lore and lists for veasen
+- The mystery
+	- GM tips
+- The Dance of Dreams
+	- One Shot
+- Background Tables
+	- Randomied Character

@@ -6,7 +6,7 @@ Target: Any object or creature you can perceive and know the location of.
 - Base Stat: Intelligence
 - Effect: Add successes to the spells pool equal to the successes of this casting.
 
-**Guide Strike**
+**Guide**
 - Action Points: 4 
 - Type: Supportive Reactive Action (target rolling an attack or skill challenge)
 - Base Stat: Intelligence
@@ -14,7 +14,7 @@ Target: Any object or creature you can perceive and know the location of.
 
 **Shatter Weapon**
 - Action Points: 8 
-- Type: Action
+- Type: Reactive Action (target rolling an attack challenge with a weapon)
 - Base Stat: Feel
 - Effect: A weapon you touch shatters if you achieve successes in this casting equal to the weapon specific dice pool size.
 
@@ -49,7 +49,7 @@ Target: Any object or creature you can perceive and know the location of.
 - Effect: The target rapidly moves in the direction it started moving for 10 feet times the number of successes. If the target would deal damage on impact it adds the same number of successes.
 
 **Strike True**
-- Action Points: 3 
+- Action Points: 2 
 - Type: Supportive Reactive Action (target rolling attack challenge)
 - Base Stat: Feel
 - Effect: The targets melee attack gains additional range of 5 feet per success.
