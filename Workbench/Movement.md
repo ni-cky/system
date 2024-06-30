@@ -1,0 +1,4 @@
+- Movement Action
+	- Dash (2 AP): Speed Steps (avg 15 ft)
+	- Move (6 AP): 2* Speed steps (avg 30 ft)
+	- Sprint (5 AP): Move 3* Speed steps in a straight line.  (avg 45  ft)
