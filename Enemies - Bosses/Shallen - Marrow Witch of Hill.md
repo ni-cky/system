@@ -2,6 +2,7 @@ AP 19
 Marrow-Witch Stats +10 AP
 - Legendary Armor
 	- every attack challenge gets reduced successes equal to the number of players
+		- Gets deactivated upon destroying the altar in teh center of the room
 - 3 Phases
 	- Phase change if hits 0 hp
 		- Regains all poise and hp

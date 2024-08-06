@@ -1,0 +1,2 @@
+- Wiggling Bones to stab interiors
+- Exploding Bones (abuse already broken bones)

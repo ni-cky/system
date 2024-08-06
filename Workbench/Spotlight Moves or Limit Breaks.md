@@ -16,3 +16,7 @@ Over a "status effect"
 	- Fractured talebone?
 		- No, as that should not be tied even more into advantages
 - If tickable box ticked -> Can use move
+
+e.g.
+Get over 'ere (Like 8 AP?)
+Move up to a target of your choice and attack.
