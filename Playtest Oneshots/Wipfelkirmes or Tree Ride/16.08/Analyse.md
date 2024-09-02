@@ -1,0 +1,13 @@
+- Stablize against Body damage?
+- Move Action has to end on free space?
+- Feedback:
+	- Fun
+	- List of items with ideas
+	- Trading system good
+	- Poise is cool
+	- Quick time event esque
+	- Kampf
+		- Sehr ähnlich zu D&D
+		- Schwer AP zu tracken ohne aufschreiben
+		- Aufpassen
+	- Ideas good name

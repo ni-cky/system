@@ -1,6 +1,9 @@
 **Tiny dipshit**
 Any target larger than you counts as climbable for you.
 
+**Broken Bones**
+When casting an Incantation and only rolling a dice pool of size 1, you do not take damage from a failure.
+
 **Vaulter**
 Your jump distance is tripled in any direction.
 
@@ -17,7 +20,7 @@ You cannot be surprised.
 You learn two marrowing spells.
 
 **Hot Shot**
-When rolling a ranged attack challenge while in the air, you may add one success to the challenge.
+When rolling a ranged attack challenge while in the air, you may add one success to the success pool.
 
 **Strong Skin**
 Requirement: Body 3
@@ -57,7 +60,7 @@ You can run up vertial surfaces during your turn. You are only affected by gravi
 
 **Cleaver**
 Requirement: Force 3
-If you reduce a target's armor points to 0 using a melee attack, if there are any remaining successes you may attack a second target within range using the remaining successes. You may repeat this until you have used all successes.
+If you reduce a target's poise to 0 using a melee attack, if there are any remaining successes you may attack a second target within range using the remaining successes. You may repeat this until you have used all successes.
 
 **Exalted**
 Requirement: Force 5

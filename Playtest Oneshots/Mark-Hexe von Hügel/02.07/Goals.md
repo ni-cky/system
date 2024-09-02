@@ -1,0 +1,5 @@
+- Prepared players
+- Deadliness of 2.0 Marrow witch
+- Adaptive armor with 3 players
+- 
+- https://forms.gle/FmepSRmYoK2dN3k49

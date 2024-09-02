@@ -1,0 +1,4 @@
+- Random player appeal
+- Combos
+- Adaptive armor
+- https://forms.gle/FmepSRmYoK2dN3k49

@@ -1,0 +1,6 @@
+- 1. Kreuz auto ankreuzen
+	- Base Stats Überschrift?
+- Breach unintuitiv
+- Easy zu verstehen
+- Poise Tactics addition
+- Skilled vs Pool tricky

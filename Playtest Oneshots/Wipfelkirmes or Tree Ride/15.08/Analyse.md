@@ -1,0 +1,14 @@
+- Combat has no crit fails
+- Feedback:
+	- Communicate before challenge
+	- Like Trade system
+		- Negotiating
+		- Relative Value
+		- better name than "Value"
+	- Shortsword
+		- 3d20?
+	- Confusion about Recoil
+		- Unclear mechanic
+		- Unclear purpose
+	- Bone Club vs. Bone Necklace
+	- Reload (X)

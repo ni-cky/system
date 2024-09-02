@@ -10,4 +10,4 @@ _Action:_ Decrease the successes of an incoming attack by one for every success 
 _Trigger_: Any Attack Action against you  
 _Action:_ Give up all sense of positioning and parry the incoming attack action of an attacker. Take an attack action with a melee weapon you are holding. The attack challenge is at disadvantage by the size of the initial attacks dice pool. Each success cancels out one success of the initial attack.  
 _If the initial attack has no successes left_, treat your own attack as dealing damage as usual.  
- _If the initial attack has successes left_, the attack is treated as if you do not have Poise left and deals damage to hit points.
+_If the initial attack has successes left_, the attack is treated as if you do not have Poise left and deals damage to hit points.

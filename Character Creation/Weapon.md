@@ -15,25 +15,25 @@ Dagger: 1d20 3AP
 Shortsword: 2d20 4AP
 Greathammer: 4d20 6AP
 
-| Name          | Action Points | Dice | Base Stat                              | Attributes                                               |
-| ------------- | ------------- | ---- | -------------------------------------- | -------------------------------------------------------- |
-| Dagger        | 3 AP          | 1d20 | Force                                  | Wounding (1), Ranged (30)                                |
-| Shortsword    | 3 AP          | 2d20 | Force                                  | -                                                        |
-| Nunchucks     | 4 Ap          | 2d20 | Force                                  | Momentum                                                 |
-| Katana        | 4 AP          | 3d20 | Force                                  | Wounding (1)                                             |
-| Longsword     | 4 AP          | 3d20 | Force                                  | Half-Swording (2)                                        |
-| Spear         | 4 AP          | 3d20 | Force                                  | Ranged (60), Two Handed (+2)                             |
-| Whip          | 3 AP          | 2d20 | Force                                  | Ranged (10), Tripping                                    |
-| Chain-whip    | 4 AP          | 3d20 | Force                                  | Ranged (10), Bludgeoning                                 |
-| Great Club    | 6 AP          | 4d20 | Force                                  | Two Handed (+2), Heavy, Bludgeoning, Simple              |
-| Greathammer   | 6 AP          | 4d20 | Force                                  | Two Handed (+4), Heavy, Bludgeoning                      |
-| Hand Crossbow | 4 AP          | 2d20 | Choose Body, Speed, Feel or Experience | Ranged (210), Recoil (1), Reload                         |
-| Crossbow      | 6 AP          | 4d20 | Choose Body, Speed, Feel or Experience | Two Handed (+5), Heavy, Ranged (210), Recoil (1), Reload |
-| Hunting Bow   | 5 Ap          | 2d20 | Force                                  | Two Handed (+5), Heavy, Ranged (150)                     |
-| War Bow       | 6 AP          | 3d20 | Force                                  | Two Handed (+7), Heavy, Ranged (1000)                    |
-| Bone Club     | 5 AP          | 3d20 | Intelligence                           | Marrow                                                   |
-| Hair Veil     | 2 AP          | 0d20 | Feel                                   | Weirding                                                 |
-| Bone Necklace | 3 AP          | 2d20 | Experience                             | Marrow, Ranged (60)                                      |
+| Name          | Action Points | Dice | Base Stat                              | Attributes                                                  |
+| ------------- | ------------- | ---- | -------------------------------------- | ----------------------------------------------------------- |
+| Dagger        | 3 AP          | 1d20 | Force                                  | Wounding (1), Ranged (6)                                    |
+| Shortsword    | 3 AP          | 2d20 | Force                                  | -                                                           |
+| Nunchucks     | 4 Ap          | 2d20 | Force                                  | Momentum                                                    |
+| Katana        | 4 AP          | 3d20 | Force                                  | Wounding (1)                                                |
+| Longsword     | 4 AP          | 3d20 | Force                                  | Half-Swording (2)                                           |
+| Spear         | 4 AP          | 3d20 | Force                                  | Ranged (12), Two Handed (+2)                                |
+| Whip          | 3 AP          | 1d20 | Force                                  | Ranged (2), Tripping                                        |
+| Chain-whip    | 4 AP          | 2d20 | Force                                  | Ranged (2), Bludgeoning                                     |
+| Great Club    | 6 AP          | 4d20 | Force                                  | Heavy, Bludgeoning, Simple                                  |
+| Greathammer   | 6 AP          | 4d20 | Force                                  | Two Handed (+4), Heavy, Bludgeoning                         |
+| Hand Crossbow | 4 AP          | 2d20 | Choose Body, Speed, Feel or Experience | Ranged (42), Recoil (1), Reload (6)                         |
+| Crossbow      | 6 AP          | 4d20 | Choose Body, Speed, Feel or Experience | Two Handed (+5), Heavy, Ranged (42), Recoil (1), Reload (6) |
+| Hunting Bow   | 5 Ap          | 2d20 | Force                                  | Two Handed (+5), Heavy, Ranged (150)                        |
+| War Bow       | 6 AP          | 3d20 | Force                                  | Two Handed (+7), Heavy, Ranged (200)                        |
+| Bone Club     | 5 AP          | 3d20 | Intelligence                           | Marrow                                                      |
+| Hair Veil     | 2 AP          | 0d20 | Feel                                   | Weirding                                                    |
+| Bone Necklace | 3 AP          | 2d20 | Experience                             | Marrow, Ranged (12)                                         |
 **Special attributes:**
 - Bludgeoning: Ignores armor points, but the target can cast any marrowing invocation as a reactive action, using the succeses of the attack.
 - Half-Swording (X): You can reduce your dice pool by up to X dice and the difficulty is decreased by that number.
@@ -42,7 +42,7 @@ Greathammer: 4d20 6AP
 - Momentum: The AP costs of any attack made with this weapon is reduced by the number of attacks previously made this round using the same weapon (to a minimum of 1 AP).
 - Ranged (X): You can attack with this weapon inside the range of X feet.
 - Recoil (X): When you make an attack, apply Off Balance (X) to yourself.
-- Reload: After a shot you need to reload your weapon using the Reload Action.
+- Reload (X): After a shot you need to reload your weapon using the Reload Action costing X AP.
 - Simple: If you roll no failures in an attack challenge using this weapon, the weapon breaks.
 - Tripping: Trips the target until the end of the round.
 - Two Handed (+X): If you only use one hand to wield this weapon you have +X difficulty.
