@@ -6,4 +6,4 @@
 	- Sprint (5 AP): Move 50 feet in a straight line.
 - Casting Spells(?)
 - Using Abilities
-- Reload (6 AP)
+- Pulling out an object on you/Stowing an object on you (1 AP)

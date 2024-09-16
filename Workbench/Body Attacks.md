@@ -1,1 +1,0 @@
-When moving through a space of an enemy, take poise damage equal to the body attribute of the enemy

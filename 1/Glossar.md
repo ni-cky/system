@@ -3,3 +3,7 @@
 	- Attack Challenge
 	- to roll a skill challenge
 - Reaction Chain
+- Advantage
+	- at advantage (+X)
+- Disadvantage
+	- at disadvantage (-X)

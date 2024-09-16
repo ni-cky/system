@@ -20,3 +20,13 @@ Higher Level Creation:
 - Distribute 4 additional points into base stats.
 - Choose 2 Abilities.
 - Choose 3 additional reactive actions or marrowing incantations.
+
+* Every Base Attribute start with one point
+* Distribute 15 Base Attribute points
+* Distribute 3 Skilled Points
+* Distribute 3 Pool Points
+* You know the reactive actions "Dodge", "Help", "Panic" and "Riposte"
+* Pick two Weapons to be skilled in.
+* Choose 4 Reactive Actions or Incantations
+* Choose 2 Abilities
+* Choose 1 Weapon to be a master in and pick one of its two weapon masteries

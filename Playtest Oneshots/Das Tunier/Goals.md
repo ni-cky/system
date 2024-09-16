@@ -1,0 +1,5 @@
+- Break the system
+- Reactive Actions/Incantations Limit
+- Progression Test
+- Weapon Masteries
+- DM Notes during combat

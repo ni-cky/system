@@ -14,6 +14,10 @@ _Action:_ Do any movement Action.
 _Trigger_: Any Attack Action  
 _Action:_ Do any movement Action.
 
+·         **Riposte \[Movement AP]** 
+_Trigger_: Any Attack Action against you with no successes
+_Action:_ Do any attack Action targeting the triggering target.
+
 ·         **Retaliating Strike \[Weapon AP]** 
 _Trigger_: Any Attack Action  
 _Action:_ Do any attack Action targeting the triggering target.
