@@ -29,7 +29,7 @@ Greathammer: 4d20 6AP
 | Glaive         | 5 AP          | 3d20 | Force                                  | Ranged (2), Two Handed (+4)                                 |
 | Great Club     | 6 AP          | 4d20 | Force                                  | Heavy, Bludgeoning, Simple                                  |
 | Greathammer    | 6 AP          | 4d20 | Force                                  | Two Handed (+4), Heavy, Bludgeoning                         |
-| Hand Crossbow  | 4 AP          | 2d20 | Choose Body, Speed, Feel or Experience | Ranged (42), Recoil (1), Reload (6)                         |
+| Hand Crossbow  | 4 AP          | 2d20 | Choose Body, Speed, Feel or Experience | Ranged (42), Recoil (1), Reload (4)                         |
 | Crossbow       | 6 AP          | 4d20 | Choose Body, Speed, Feel or Experience | Two Handed (+5), Heavy, Ranged (42), Recoil (1), Reload (6) |
 | Hunting Bow    | 5 Ap          | 2d20 | Force                                  | Two Handed (+5), Heavy, Ranged (150)                        |
 | War Bow        | 6 AP          | 3d20 | Force                                  | Two Handed (+7), Heavy, Ranged (200)                        |

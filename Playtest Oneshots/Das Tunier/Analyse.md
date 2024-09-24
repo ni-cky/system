@@ -1,0 +1,29 @@
+- Single players (due to competition) can't do shit
+- half swording + speed mastery allows auto hit
+- Initative ties?
+- Stop reword
+- 1 is lowest damage
+- No reactions on talebone actions?
+- Epiphets
+	- "Traitor"
+- Feedback:
+	- Parry at disadvaantage or not
+	- Quantity of dice for different rolls?
+	- Character sheet quick guide to adding up dice
+	- More options for no marrowing characters
+		- Retaliating ally
+		- Intercept
+		- Can only do if someone else gets attacked (e.g. sentry, cutting word)
+		- once a round abilities?
+	- Masteries very powerlevel all over the place
+		- Fast cut (no mechanical effect) vs. glaive spin move
+		- Plätten is very strong
+		- Calm shot is unintuitive as creative tool
+			- Attack (against the enemy)
+		- Consistent buffs vs. first round buffs
+	- after turn taking hits without being able to prevent it
+		- Cater to selfish players?
+	- pvp
+		- favours second initative turn
+	- Too many AP to reload hand crossbow
+	- 4 actions good

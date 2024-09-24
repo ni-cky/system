@@ -17,6 +17,8 @@ The Black Knight is wearing a helmet. If the helmet is removed in any situation 
 	- Longsword
 - Longsword attack (4 AP)
 	- 9d20
+- Crush Skull (5 AP)
+	- 6d20, Ranged 12
 - Dodge, Help, Panic, Riposte
 - Parry (Preventive)
 	- 9d20 to match attacks success pool. 
