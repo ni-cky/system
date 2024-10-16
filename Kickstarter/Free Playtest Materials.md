@@ -1,0 +1,9 @@
+- Base Rules
+	- Character sheet
+	- Challenges
+	- Combat
+- 8 Weapons
+- 4 of each
+	- Reactive actions (R, P, S)
+	- Incantations (+2)
+	- Abilities

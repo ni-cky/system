@@ -28,6 +28,10 @@ Recourcen:
 	- Narrative Importance: Low
 	- Gameplay Importance High (Build defining)
 
+Plot Points:
+- Gain 1 at the end of each session
+- +1 if Storied Rest was used
+
 | Level | Type      | Upgrade                                                                                                                                     | Actions |
 | ----- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | 1     | Talebound | Choose one Action                                                                                                                           | 4       |
@@ -39,12 +43,12 @@ Recourcen:
 Tragic Tale: Debuff Enemies(?)
 Heroic tale: Buff allies(?)
 
-| Level | Type        | Upgrade | Level | Type        | Upgrade |
-| ----- | ----------- | ------- | ----- | ----------- | ------- |
-| 7     | Tragic Tale |         | 7     | Heroic Tale |         |
-| 8     | Tragic Tale |         | 8     | Heroic Tale |         |
-| 9     | Tragic Tale |         | 9     | Heroic Tale |         |
+| Level | Type        | Upgrade                                                       | Level | Type        | Upgrade                                                                   | Actions |
+| ----- | ----------- | ------------------------------------------------------------- | ----- | ----------- | ------------------------------------------------------------------------- | ------- |
+| 7     | Tragic Tale | Choose one Action<br>Choose Special Weapon Feature            | 7     | Heroic Tale | Choose one Action<br>Add three Base Attribute Points                      | 10      |
+| 8     | Tragic Tale | Choose one Action<br>Be able to be twice in a reaction chain. | 8     | Heroic Tale | Choose one Action<br>Your team members may use your AP if you allow them. | 11      |
+| 9     | Tragic Tale | Choose one Action<br>Choose Ability                           | 9     | Heroic Tale | Choose one Action<br>Choose Ability                                       | 12      |
 
-| Level | Type     | Upgrade |
-| ----- | -------- | ------- |
-| 10    | Folktale |         |
+| Level | Type     | Upgrade                                 |
+| ----- | -------- | --------------------------------------- |
+| 10    | Folktale | Choose one Action<br>Choose Epic Finale |

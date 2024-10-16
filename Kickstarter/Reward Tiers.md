@@ -15,9 +15,12 @@ Rewards
 - Boss Design
 - Location Design
 
+Music
+-  
+
 ### Reward Tiers
+$ 1 - Mention on website
 $25 - PDF
-$30 - Print Art
 $40 - Print Art
 $65 - Book + PDFs
 $70 - Digital Deluxe (PDFs + VTT Support and Card PDFs)
@@ -47,6 +50,7 @@ Deluxe Box
 - Art Prints (14€)
 - In Progress Artbook? (32€)
 - Canvas Wall hanging (28€)
+- 
 
 Added Later
 - Dice Set(s) (23€|19€)

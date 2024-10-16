@@ -7,6 +7,9 @@ When casting an Incantation and only rolling a dice pool of size 1, you do not t
 **Vaulter**
 Your jump distance is tripled in any direction.
 
+**Lunger**
+You may jump as if you had a running start, even if you did not.
+
 **Lucky**
 Your Luck increases by 1.
 

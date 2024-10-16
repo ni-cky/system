@@ -47,7 +47,7 @@ Team Increases:
 > - Gain level/Increase Counter if a scene is finished?
 
 e.g.
-Get over 'ere (6 AP)
+Get over 'ere (5 AP)
 Move up to a target of your choice and attack.
 
 Living Bones (4 AP)

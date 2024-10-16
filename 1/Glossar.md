@@ -7,3 +7,18 @@
 	- at advantage (+X)
 - Disadvantage
 	- at disadvantage (-X)
+- Skilled
+- Challenge Dice Pool
+- Success Dice Pool
+- Base Attribute
+- Talent
+- Pool Points
+- Profession
+- Success
+- Failure
+- Critical Failure
+- Damage
+	- Poise
+	- Hit Points
+- Initative
+- Staggered

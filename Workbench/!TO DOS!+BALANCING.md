@@ -1,11 +1,12 @@
 Boss Rewards
-Actual Progression metrics
-Progression
+Items
+~~Actual Progression metrics~~
+~~Progression~~
 ~~Special Weapons Features~~
 ~~Drawing/Stowing object~~
-Jumping
+~~Jumping~~
 ~~Suffocation~~
-Height Differences
+~~Height Differences~~
 Glossar
 GM Tips
 
