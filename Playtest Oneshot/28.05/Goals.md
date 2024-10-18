@@ -1,9 +1,0 @@
-- First Oneshot
-- Balance testing
-	- Average successes?
-	- Deathly?
-- Vibe
-- Restrictions:
-	- Keine allgemeine Aktionen
-	- Keine Professionen
-- https://forms.gle/FmepSRmYoK2dN3k49

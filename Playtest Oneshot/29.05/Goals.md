@@ -1,6 +1,0 @@
-- Patch holes
-	- Luck?
-	- Boss fight
-- Restrictions:
-	- "Level 1"
-- https://forms.gle/FmepSRmYoK2dN3k49

@@ -1,6 +1,0 @@
-- Schloink
-	- Fleshy Slinky
-	- Mayor Runner up
-		- PArtner of the prev mayor
-- Prev Mayor
-	- eating by pidgeon
