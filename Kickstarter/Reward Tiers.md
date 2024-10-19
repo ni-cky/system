@@ -20,9 +20,9 @@ Music
 
 ### Reward Tiers
 $ 1 - Mention on website
-$25 - PDF
+$18 - PDF
 $40 - Print Art
-$65 - Book + PDFs
+$55 - Book + PDFs
 $70 - Digital Deluxe (PDFs + VTT Support and Card PDFs)
 $140 - Core Box (All books + Cards + PDFs)
 (3) $220 - Boss Design + Core Box
@@ -35,7 +35,8 @@ Deluxe Book
 Deluxe Box
 
 ### Add-Ons
-- PDF (28€)
+- Battle Map Set
+- PDF (22€)
 - Hardcover (59€|50€)
 - GM Screen (19€|19€)
 - Dice bag (19€)

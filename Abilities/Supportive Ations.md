@@ -8,7 +8,11 @@ _Action:_ The target can move double the distance it paid for and has a temporar
 
 ·         **Encourage \[4 AP]**  
 _Trigger:_ Attack or Skill Challenge performed by a target being able to perceive you  
-_Action:_ Help the target with a nonspecific _Impression (Convince)_ skill challenge. Only half of your successes get added to the final success pool (rounded up).
+_Action:_ Help the target with an _Impression skill challenge.
+
+·         **Epic Soundtrack \[4 AP]**  Maybe even 5?
+_Trigger_: Target taking an action. 
+_Action:_ The targets action and any supportive reactive actions is resolved before preventive reactive actions are.
 
 ·         **Fling \[3 AP]**  
 _Trigger_: Any Movement Action that passes within arm’s  

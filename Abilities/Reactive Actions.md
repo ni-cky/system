@@ -1,6 +1,18 @@
+·         **Backflip \[3 AP]**  
+_Trigger_: Any action 
+_Action:_ Use the Dash Action. This action can not be reacted to.
+
 ·         **Dodge \[2 AP]**  
 _Trigger_: Any action  
 _Action:_ Use the Dash Action.
+
+·         **Empathy \[3 AP]** 
+_Trigger_: Target regains Poise 
+_Action:_ Regain Poise equal to a Feel skill challenge.
+
+·         **Faint Dramatically \[4 AP]** 
+_Trigger_: You take hit point damage 
+_Action:_ You are prone. The next attack against you does not hit.
 
 ·         **Pained Strike \[Weapon AP]** 
 _Trigger_: You take Poise damage 

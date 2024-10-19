@@ -14,6 +14,14 @@ _Action:_ The attack does not resolve until you use your weapon for anything els
 _Trigger_: Any Movement Action
 _Action:_ Do any Movement Action. At any point during this action you have to be moving towards the target.
 
+·         **Cuss \[2 AP]**  
+_Trigger_: A target dealing poise damage 
+_Action:_ The target receives Off Balance equal to successes of an Impression skill challenge by you.
+
+·         **Distract \[6 AP]**  
+_Trigger_: Target casting an incantation 
+_Action:_ The marrowing challenge is contested by a skill challenge by you.
+
 ·         **Flinch \[Weapon AP]**  
 _Trigger_: Any Attack Action within reach
 _Action:_ The triggering attack action and any supportive actions resolve at the end of this reaction chain.

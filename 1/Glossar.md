@@ -22,3 +22,7 @@
 	- Hit Points
 - Initative
 - Staggered
+- Contested
+	- Two challenges in contest with each other
+	- successes cancel each other out
+	- Remaining successes determine success of challenge
