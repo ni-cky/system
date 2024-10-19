@@ -42,7 +42,7 @@ _Action:_ The attack gains advantage (-X). Your next attack gains advantage (-X)
 
 ·         **Shove \[2 AP]**  
 _Trigger_: Any Attack Action against a target within arms reach
-_Action:_ If willing the target moves \[Force] Steps away from you in a straight line. If unwilling the target contests a Force challenge by you with a challenge of their choice.
+_Action:_ If willing the target moves  Steps away from you in a straight line equal to your Force. If unwilling, the target contests a Force challenge by you with a skill challenge of their choice.
 
 ·         **Snatch \[3 AP]**  
 _Trigger_: A target within arms reach picks up an object

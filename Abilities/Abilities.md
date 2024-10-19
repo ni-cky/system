@@ -71,7 +71,7 @@ Your maximum base stat restriction for the stat Force is increased by 1.
 
 **Actually left handed**
 Requirement: Impression 2
-When taking an attack action with a one handed weapon, you may impose difficulty on the attack equal to your impression dice pool size. Your next attack against the same target has a difficulty reduction equal to double your impression dice pool size. For this effect to take place you need to swap the main weapon hand.
+When taking an attack action with a one handed weapon, you may impose difficulty on the attack equal to your impression dice pool size. Your next attack against the same target has a difficulty reduction equal to double your impression dice pool size. For this effect to take place you need to swap the main weapon hand for 1 AP.
 
 **Totally a traitor**
 Requirement: Impression 3

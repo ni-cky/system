@@ -1,0 +1,6 @@
+US 30-35€ (Fed Ex)
+Canada 33-39€ (Fed Ex)
+UK 16-19€ (Fed Ex)
+Europe 16-27€ (Fed Ex)
+Australia 49-57€ (Fed Ex)
+New zealand 49-57€ (UPS)

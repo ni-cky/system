@@ -49,9 +49,9 @@ _Base Attribute:_ Feel
 _Effect:_ A weapon you touch shatters if you achieve successes in this casting equal or greater to the weapon specific dice pool size.
 
 ·         **Stop [3 AP]**  
-_Type:_ Preventive Reactive Action (Target is moving)  
+_Type:_ Preventive Reactive Action (Target moves or is moved more than 1 step)  
 _Base Attribute:_ Feel  
-_Effect:_ The target stops moving. Any force acting on it must contest the numbers of successes of the spell.
+_Effect:_ The target can't move from it's current spot. Any force acting on it must contest the numbers of successes of the spell.
 
 ·         **Strike True [3 AP]**  
 _Type:_ Supportive Reactive Action (target rolling attack challenge)  
