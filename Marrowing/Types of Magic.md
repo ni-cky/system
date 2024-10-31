@@ -5,3 +5,5 @@ Letting (Aderlass)
 - Plants and goop
 Harrowing
 - Evil magic, uses bones of dead things. Summons the evil spirit of the creature whose bones you use trying to kill you
+Cursing?
+- Writing curses into bones

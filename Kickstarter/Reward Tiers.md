@@ -20,13 +20,13 @@ Music
 
 ### Reward Tiers
 $ 1 - Mention on website
-$18 - PDF
-$40 - Print Art
-$55 - Book + PDFs
-$70 - Digital Deluxe (PDFs + VTT Support and Card PDFs)
-$140 - Core Box (All books + Cards + PDFs)
-(3) $220 - Boss Design + Core Box
-(2) $250 - Location Design + Core Box
+$18 - PDF - 17 €
+$40 - Print Art - 37 €
+$55 - Book + PDFs - 51 €
+$70 - Digital Deluxe (PDFs + VTT Support and Card PDFs) - 65 €
+$140 - Core Box (All books + Cards + PDFs) - 130 €
+(3) $220 - Boss Design + Core Box - 204 €
+(2) $250 - Location Design + Core Box - 232 €
 
 Later Tiers:
 All Adventures

@@ -26,6 +26,10 @@ _Action:_ Do anything not taking longer than a second.
 _Trigger_: Any Movement Action  
 _Action:_ Do any movement Action.
 
+·         **Pounce \[3 + Movement AP]** 
+_Trigger_: Any Movement Action
+_Action:_ Do any movement Action. Afterwards you may attack a target within arm's reach with the successes of a Force Skill Challenge.
+
 ·         **Reposition \[Movement AP]** 
 _Trigger_: Any Attack Action  
 _Action:_ Do any movement Action.
@@ -52,7 +56,7 @@ _Action:_ Move yourself and a willing target within arm's reach.
 
 ·         **Trip \[3 AP]**  
 _Trigger_: Target moves within arms reach
-_Action:_ Target has to contest a Force challenge by you with a Speed challenge. If you win, the target is tripped
+_Action:_ Target has to contest a Force challenge by you with a Speed challenge. If you win, the target is tripped.
 
 ·         **Waiting Strike \[Weapon AP]** 
 _Trigger_: Any Movement Action  

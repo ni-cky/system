@@ -1,0 +1,115 @@
+## NPCs
+- Lord John, m, Folk
+	- Froschkopf
+	- Lange dünne GLiedmaßen
+	- Puderperüccke
+	- Lila anzug
+- Der Rattenmann
+	- Skaven, yknow
+	- Hält die Villa am leben
+		- "Die Ratten sind Teil des Hauses"
+- Der Tod
+	- Scharlachtorter Mantel
+	- Rote vollgesichtsmaske mit schwarzen augen und mund
+
+## The Rooms
+- Room 1: Blue
+	- Keys
+		- Gardrobe
+			- Handtasche
+			- Mäntel/Outfits
+			- Buffettickets
+		- Masken
+		- Empfangsdame
+	- Empfang
+		- Anmeldung und Gardrobe
+	- Player 1 Lock
+		- Nervöse Dame die ihr Outfit schicker braucht und den Weg versperrt
+			- Anastasia, f, Treefolk
+				- Lang und spindly
+				- Weites, fließendes Kleid aus Blättern
+				- Maske mit drei Augenlöchern
+				- Soll mit John verlobt werden
+				- Hat Lampenfieber
+- Room 2: Purple
+	- Keys
+		- Wartende Leute
+		- Feuerstelle
+		- Orgel
+	- Antechamber
+		- Marktstände
+			- Schmuckstand
+				- Qualität: niedrig, Preis: niedrig
+				- Besitzer:
+					- Betti, f, Folk
+						- Betrunken, denglisched
+			- "Alchemiestand"
+				- Qualität: niedrig, Preis: teuer
+				- Verkauft Kreide
+				- Besitzer:
+					- Reiner, m, Folk
+						- Arschloch, übertrieben höflich
+			- Äxte
+				- Qualität: niedrig, Preis: niedrig
+				- Besitzer:
+					- Felicitas, f, Treefolk
+						- Krank, schweigsam
+	- Player 2 Lock
+		- Actual Bouncer
+- Room 3: Green
+	- Keys
+		- Alkohol
+		- Feuerstelle
+		- Lebende Efeudecke
+	- Speisesaal
+		- Marktstände
+			- Salben und Sprichworte
+				- Qualität: niedrig, Preis: niedrig
+				- Verkauft Kreide
+				- Besitzer:
+					- Volker, m, Folk
+						- charmant, bleich und blutunterlaufende Augen
+			- Kleidung und Gürtel
+				- Qualität: gut, Preis: hoch
+				- Besitzer:
+					- Fiona, f, Folk
+						- apathetic
+			- Karten
+				- Qualität: durchschnitt, Preis: durchschnitt
+				- Besitzer:
+					- Sevon, m, Folk
+						- hoffnungsvoll, übergewichtig
+			- Ausrüstung
+				- Qualität: niedrig, Preis: niedrig
+				- Besitzer:
+					- Bieber, m, Treefolk
+						- zynisch, ist eine Wasserratte
+	- Player 3 Lock
+		- Durchgangstür zur Küche
+		- Kellergewölbe zur Speisekammer
+- Room 4: Orange
+	- Keys
+		- Essen
+		- Gift
+		- Essenswagen
+	- Küche
+	- Player 4 Lock
+		- Chefkoch der die Küche übersieht
+- Room 5: White
+	- Keys
+		- Ruhe
+		- Gemälde
+		- Dekordegen
+	- Flur
+	- Backtrack Lock
+		- Schlüssel vom Lord
+- Room 6: Violet
+	- Keys
+		- Glastisch, Spiegel, Glaskronleuchter
+		- Tresor
+		- Elchgeweih
+	- Sitzgelegenheiten
+	- No Lock
+- Room 7
+	- Schwarzer Raum mit rotem Licht
+	- Alte Standuhr
