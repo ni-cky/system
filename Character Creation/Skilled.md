@@ -2,7 +2,7 @@
 aliases: [skilled]
 ---
 
-One can be skilled in an [[Profession]], [[Talent]] or [[Weapon]].
+One can be skilled in an [[Profession]], [[Talent]] or [[Weapontalent]].
 Being skilled in something lowers the DC to succeed with a diceroll to 8, instead of the usual 13.
 
 3d (skilled) = avg 1.95 Successes

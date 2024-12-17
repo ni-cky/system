@@ -49,6 +49,6 @@ Heroic tale: Buff allies(?)
 | 8     | Tragic Tale | Choose one Action<br>Be able to be twice in a reaction chain. | 8     | Heroic Tale | Choose one Action<br>Your team members may use your AP if you allow them. | 11      |
 | 9     | Tragic Tale | Choose one Action<br>Choose Ability                           | 9     | Heroic Tale | Choose one Action<br>Choose Ability                                       | 12      |
 
-| Level | Type     | Upgrade                                 |
-| ----- | -------- | --------------------------------------- |
-| 10    | Folktale | Choose one Action<br>Choose Epic Finale |
+| Level | Type     | Upgrade                                                                         |
+| ----- | -------- | ------------------------------------------------------------------------------- |
+| 10    | Folktale | Choose one Action<br>You may always use all Reactions and Incantations you know |

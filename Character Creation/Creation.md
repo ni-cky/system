@@ -8,7 +8,7 @@ Your armor points are equal to your body plus speed stat. If you have a dicepool
 
 Your starting Luck stat (before modifications) is 3.
 
-Your new character is [[skilled]] in two [[Weapon|weapons]], one [[profession]] and two [[Talent|talents]].
+Your new character is [[skilled]] in two [[Weapontalent|weapons]], one [[profession]] and two [[Talent|talents]].
 
 Distribute 3 points on any talent pools.
 

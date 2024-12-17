@@ -11,6 +11,7 @@ Breach
 * How easily you can get access to a space that is locked, barred or off limits
 	* You can be skilled in this talent more than once
 	* You need to specify your preferred way of entry. Disadvantage if tried another way
+	* Pool points are not connected to way of entries
 Medicine
 - Medical Knowledge and experience in wounds and illnesses
 Convince

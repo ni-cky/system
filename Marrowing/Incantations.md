@@ -73,6 +73,11 @@ _Type:_ Reactive Action (Target starts suffocating)
 _Base Attribute:_ Intelligence
 _Effect:_ For one hour a number of targets equal to the successes do not need to breathe.
 
+·         **Transmute Bone [8 AP]**  
+_Type:_ Action
+_Base Attribute:_ Intelligence
+_Effect:_ Bones of dead creature equal to successes you touch, transform into another organic material of your choice.
+
 ·         **Weaken [4 AP]**  
 _Type:_ Reactive Action (Target is target of an attack challenge)  
 _Base Attribute:_ Intelligence

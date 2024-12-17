@@ -1,6 +1,7 @@
 Heal upon rest to bloodied
 To heal completely, during rest at least 1 player needs to tell a tale about an important npc, place or event of their backstory
 - Extra benefits for multiple people adding onto each other with own tales?
+- When told, the current rest will not be interrupted
 
 Problems:
 - Encourage players to "Potion store" backstory

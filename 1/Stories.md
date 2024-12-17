@@ -55,3 +55,6 @@
 36. Monkey's Paw
 37. Amnesia
 38. Test of ???
+	1. Zauberflöte
+39. Beauty beyond compare
+40. Damsel in distress

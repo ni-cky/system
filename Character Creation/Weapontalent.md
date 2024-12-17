@@ -20,7 +20,7 @@ You may and should use weapons in ways not covered by a simple attack challenge.
 
 _Sarah, The Folk chef, wields a Great Club that is a huge wooden spoon. While fighting near a pit of acid, she has the idea to scoop up some acid and fling it at the enemy. The challenge should not be more difficult due to her using a Great Club according to the rules._
 
-| Name           | Action Points | Dice  | Base Stat                              | Attributes                                                  |
+| Name           | Action Points | Dice  | Base Stat                              | Properties                                                  |
 | -------------- | ------------- | ----- | -------------------------------------- | ----------------------------------------------------------- |
 | Knuckledusters | 3 AP          | +0d20 | Force                                  | Momentum (needs balancing)                                  |
 | Dagger         | 3 AP          | +1d20 | Force                                  | Wounding (1), Ranged (6)                                    |
