@@ -72,3 +72,6 @@ Damage:
 - Round:
 	- 2 Attacks
 		- 12.59 SpT
+
+
+Judgement:

@@ -1,0 +1,83 @@
+Component: Subsection of vehicle, for one purpose. Has a number of passangers it can carry, a Stability, Command Point(s), and a Function.
+Stability: Needs to take X damage or more, to take significant damage. If taking significant damage, roll on the disaster table. Component is not able to use its Function after.
+Command Point: One (or more) points marked within a component. A character has to stand here to be able to use the Function of the Component.
+Function: Function the component can use. Has an AP cost to use
+Size: Switching Components costs at least [Movement Action]
+
+# Example: Glider
+Passengers: 2
+Size: Dash
+Attributes:
+- Heading: Where the Glider is pointing on the Hex Grid
+- Speed: How many Steps the Glider travels as part of the Encounter
+- Height: How far the glider is from the Ground
+Nose:
+- Stability: 5
+- Function (5 AP): Slow down or speed up the Glider by a number of Steps up to a Body Challenge.
+Left Wing:
+- Stability: 3
+- Function (4 AP): During the next move, the Glider can turn left.
+Right Wing:
+- Stability: 3
+- Function (4 AP): During the next move, the Glider can turn right.
+Notes:
+- If the glider stops moving, a disaster occurs.
+
+Disaster Table:
+	1-4: Tumble. The Glider looses 2 Speed.
+	5-6: Loose Cargo. Any cargo not carried by a passanger falls.
+	7-8: Chain Reaction. Loose a Component. Do only resolve the disaster for that component if it is another chain reaction
+	9-10: Minor Break. The glider suffers ehavy damage at 2 places. These places are impassible and have to repaired with 3 Successes each, before being passable again.
+	11-12: Major Break. The glider suffers ehavy damage at 3 places. These places are impassible and have to repaired with 4 Successes each, before being passable again. 
+	13-14: Loop. All characters have to gain a collective 5 successes at disadvantage equal to speed, or one character starts falling.
+	15-16: Rise. The glider rises 5 Steps in height.
+	17-18: Drop. The glider drops 5 Steps in height. 
+	20: Fall. The Glider starts falling, as do any passangers.
+	
+# Example: Windship
+Passengers: 4
+Size: Dash
+Attributes:
+- Heading: Where the Windship is pointing on the Hex Grid
+- Speed: How many Steps the Windship travels as part of the Encounter
+- Height: How far the Windship is from the Ground
+Hull:
+- Stability: 7
+Flightstone:
+- Stability: 3+Total Components (starts at 6)
+- Function (6 AP): Rise or drop Steps equal to successes of a Skill Challenge.
+Helm:
+- Stability: 4
+- Function (4 AP): During the next move, the Glider can turn right.
+Sails:
+- Stability: 2
+- Function (3 AP): Change Speed by up to 2.
+Ballista:
+- Stability: 5
+- Function (8 AP): 10d20, Ranged (30)
+Mangonela:
+- Stability: 6
+- Function (10 AP): 15d20, Ranged (15)
+Notes:
+- If the Windships Flightstone is heated or cooled outside of its Function, a disaster occurs.
+
+Disaster Table:
+	1-4: Shake. All characters are prone.
+	5-6: Loose Cargo. Any cargo not carried by a passanger falls.
+	7-8: Chain Reaction. Loose a Component.
+	9-10: Minor Break. The Windship suffers heavy damage at 4 places. These places are impassible and have to repaired with 3 Successes each, before being passable again.
+	11-12: Major Break. The Windship suffers ehavy damage at 6 places. These places are impassible and have to repaired with 4 Successes each, before being passable again. 
+	13-14: Hull Breach. The Windship starts dropping 3 Steps each round as part of the movement. All passangers take 3 poise damage.
+	15-16: Rise. The Windship rises 15 Steps in height. All passangers take 1 poise damage.
+	17-18: Drop. The Windship drops 15 Steps in height. All passangers take 1 poise damage.
+	20: Crash Rise. The Windship starts falling upwards. All passangers take 8 poise damage.
+	
+Disaster Table:
+- 1d20
+- Vehicle Dependant
+
+Lovers in a dangerous spacetime:
+4x Gun Positions
+1x helm (or Mine placer)
+1x Rotating Shield (or Bouncing shield)
+1x Auto Rotating powerful Gun (Arcs burst fire) : AOE

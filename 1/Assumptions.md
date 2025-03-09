@@ -1,0 +1,2 @@
+- Being fast is better than being tanky
+	- Lack of Common Armor

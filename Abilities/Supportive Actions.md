@@ -1,51 +1,51 @@
-·         **Coach \[5 AP]**  
-_Trigger_: Any Movement action
-_Action:_ In this reaction chain, the target avoids gaining one status effect per success in a challenge by you.
+Coach (5 AP)  
+**Trigger:** Any Movement action  
+**Action:** In this Reaction Chain, the target avoids gaining one Status Effect per success in a Skill Challenge by you.
 
-·         **Covered Sprint \[2 AP]**  
-_Trigger:_ Any Movement Action  
-_Action:_ The target can move double the distance it paid for and has a temporary bonus Poise point until the reaction chain has resolved.
+Covered Sprint (2 AP)  
+**Trigger:** Any Movement Action   
+**Action:** The target can move double the distance it paid for and gains temporary Poise equal to successes in an Attack Challenge by you until the Reaction Chain has resolved.
 
-·         **Encourage \[4 AP]**  
-_Trigger:_ Attack or Skill Challenge performed by a target being able to perceive you  
-_Action:_ Help the target with an _Impression skill challenge.
+Encourage (4 AP)  
+**Trigger:** Attack or Base Attribute Challenge performed by a target being able to perceive you   
+**Action:** Help the target with an Impression Challenge.
 
-·         **Epic Soundtrack \[4 AP]**  Maybe even 5?
-_Trigger_: Target taking an action. 
-_Action:_ The targets action and any supportive reactive actions is resolved before preventive reactive actions are.
+Epic Soundtrack (4 AP)  
+**Trigger:** Target taking an Action.  
+**Action:** The target’s Action and any Supportive Reactions are resolved before Preventive Actions are.
 
-·         **Fling \[3 AP]**  
-_Trigger_: Any Movement Action that passes within arm’s  
-_Action:_ If the target gets within arm’s reach of you during their movement, you fling them across you and the target may move an additional steps equal to your Force, without spending any action points themselves.
+Fling (3 AP)  
+**Trigger:** Any Movement Action that passes within arm’s  
+**Action:** If the target gets within arm’s reach of you during their movement, you fling them across you and the target may move additional Steps equal to your Force, without spending any action points themselves.
 
-·         **Fuel \[3 AP]**  Useful?
-_Trigger_: Any Action by a target being able to perceive you
-_Action:_ The target may pay for their current action with your remaining AP.
+Fuel (3 AP)  
+**Trigger:** Any Action by a target being able to perceive you  
+**Action:** The target may pay for their current Action with your remaining AP.
 
-·         **Help \[4 AP]**  
-_Trigger:_ Attack or Skill Challenge performed by a target being able to perceive you and within arm’s  
-_Action:_ Help the target.
+Help (4 AP)  
+**Trigger:** Challenge performed by a target being able to perceive you and within arm’s reach  
+**Action:** Help the target.
 
-·         **Inspire \[4 AP]**  
-_Trigger:_ Any action by target
-_Action:_ The target gains temporary Poise points equal to an Experience skill challenge by you until the reaction chain has resolved.
+Inspire (4 AP)  
+**Trigger:** Any Action by target  
+**Action:** The target gains temporary Poise points equal to an Experience Challenge by you until the reaction chain has resolved.
 
-·         **Prop Up \[2 + Movement AP]**  
-_Trigger_: Any Movement Action within arm's reach
-_Action:_ If the target is tripped or prone, allow them to move the movement they paid for by moving alongside them (you need to pay for the same Movement actions).
+Prop Up (2 + Movement AP)  
+**Trigger:** Any Movement Action within arm's reach  
+**Action:** If the target is tripped or prone, allow them to move the movement they paid for by moving alongside them.
 
-·         **Serve \[1 AP]**  
-_Trigger_: Any Action within arm's reach
-_Action:_ You may hand an object to the target and may take an object in return..
+Serve (1 AP)  
+**Trigger:** Any Action within arm's reach  
+**Action:** You may hand an object to the target and may take an object in return.
 
-·         **Set Bones \[5 AP]**  
-_Trigger_: Any Incantation within arm's reach
-_Action:_ The Incantation gains advantage (-X) with X being the number of successes of an Intelligence, Feel or Experience challenge by you.
+Set Bones (5 AP)  
+**Trigger:** Any Incantation within arm's reach  
+**Action:** The Incantation gains advantage (-X) with X being the number of successes of an Intelligence, Feel or Experience Challenge by you.
 
-·         **Teach \[Weapon AP]**  
-_Trigger_: Any attack action by target able to perceive you
-_Action:_ Roll an attack challenge with your weapon. After resolving their attack the target may decide to choose your success pool instead of theirs for their attack.
+Teach (Weapon AP)  
+**Trigger:** Any Attack Action by target able to perceive you  
+**Action:** Roll an Attack Challenge with your weapon. After resolving their attack, the target may decide to choose your success pool instead of theirs for their attack.
 
-·         **Transmit \[4 AP]**  
-_Trigger_: Any Attack Action targetting you by an ally
-_Action:_ Roll a Force challenge and add the successes to the attack's success pool. You may choose a new target within the range of the original weapon.
+Transmit (4 AP)  
+**Trigger:** Any Attack Action targeting you by an ally  
+**Action:** Roll a Force challenge and add the successes to the attack's success pool. You may choose a new target within the range of the original weapon. You do not take damage from the attack.

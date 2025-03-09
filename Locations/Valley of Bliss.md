@@ -1,0 +1,62 @@
+- Zeit theme
+	- Zeitverschiebung
+	- Selbst-begegnungen
+- Leute die adapted sind
+- Ausnutzung einer Entität
+	- System-orientiert
+- Tal der Winde
+	- Science Fantasy
+	- (Numenera)
+- Veränderung von Materialien
+	- "Regen"
+		- Dimensionshopping?
+
+- Tal
+	- Aus irgendeinem Grund beschützt
+		- Entität
+			- Pilzartiges / Kristall
+- Antagonisten:
+	- Wissen über Entität
+		- Hält die Entität davon zurück sich zu expanden
+			- 
+			- Leid der Entität vs. Sicherheit von der Außenwelt
+	- Propaganda und Überwachungsstaat
+
+- Bossfight
+	- Sporen effekte³
+	- Entweder entkommen lassen/genozid erlauben, oder aufhalten
+	- Frei lassen
+		- "Moralisch"		- 
+	- Aufhalten
+		- Tal schutzlos
+
+- Context
+	- Tal
+		- Kleines hochgebirge (schneebedeckt)
+		- Klimatische Anomalie
+			- Wohl temperiert
+			- Dauerhafter frühling
+	- Versteckt
+		- Monströse version von shangrila
+		- Valley of Bliss
+		- isolationist
+- Appearance
+	- Konstante Frühling
+	- in unregelmäßigen abständen Türme
+		- Aus metall oder Stein oder organisch? (unklar)
+	- schlichte Hütten
+		- Patchwork mit teilen die abgebrochen sind von der alten technologie
+- Purpose
+	- Siehe oben
+- Characters
+	- Cult
+		- Offen, disguised oder versteckt?
+		- Potentiell Gegenwind aus der Population?
+	- Gegener des kultes
+		- Nicht notwendiger weise aktiv, sondern nur im sentiment
+
+Was muss getan werden
+- Genereller vibe
+- 3-5 Notable Locations
+- Pro location 1-2 NPCs
+- 2-5 Plothooks

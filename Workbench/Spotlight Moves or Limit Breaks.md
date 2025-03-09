@@ -47,7 +47,7 @@ Team Increases:
 > - Gain level/Increase Counter if a scene is finished?
 
 e.g.
-Get over 'ere (5 AP)
+>Get over 'ere (5 AP)
 Move up to a target of your choice and attack.
 
 Living Bones (4 AP)
@@ -72,6 +72,18 @@ Attack a target within reach of you that is prone with a weapon you are holding.
 
 Pressure (7 AP)
 > Baguette Time
-Attack a target within reach of you. The target has to make an attack if possible, negating your attack if they do. Afterwards push the target 1 Step away from you and move one Step towards them. Repeat this whole process a numebr of times equal to your level or until the target is unable to negate an attack of yours..
+Attack a target within reach of you. The target has to make an attack if possible, negating your attack if they do. Afterwards push the target 1 Step away from you and move one Step towards them. Repeat this whole process a numebr of times equal to your level or until the target is unable to negate an attack of yours.
+
+Run with the punches (3 AP) 
+>For the next instances equal to your level, each time you take damage you may move steps equal to the damage, without spending AP.
+
+Sacrifice Oneself (3 AP) 
+>For the next instances equal to your level, each time you take damage a target gains Poise equal to the damage.
+
+Burst (6 AP) 
+>Any target within arm's reach takes damage equalt to your level plus your current Poise. You loose all Poise.
+
+Make it work (7 AP)
+>You describe a challenge interacting with an inanimate object. You are considered to have five plus your level successes.
 
 Wish

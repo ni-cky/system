@@ -23,6 +23,7 @@ Outline of an adventure
 	- Vaesen esque?
 ~~Falling~~
 Regaining Luck?
+Craft als extra talent?
 
 ### Balancing
 Stop

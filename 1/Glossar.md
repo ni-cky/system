@@ -2,6 +2,7 @@
 	- Skill Challenge
 	- Attack Challenge
 	- to roll a skill challenge
+	- rolling Character
 - Reaction Chain
 - Advantage
 	- at advantage (+X)
@@ -26,3 +27,4 @@
 	- Two challenges in contest with each other
 	- successes cancel each other out
 	- Remaining successes determine success of challenge
+	- 

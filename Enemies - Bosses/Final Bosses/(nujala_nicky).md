@@ -1,0 +1,22 @@
+**Ideas:**
+- gerne mal übersehen/unscheinbar
+- powerhouse
+- Gutmütig/Ratgeber/**precience**
+	- Wahnsinnig
+		- Orakel
+- Tersa, die Weberin
+- In Wünsche/Träume verstricken
+	- Illusion und Gedankenmanipulation
+		- Subtile beeinflussung durch gute Gesprächsführung
+- Wirbelsäulenextraktion
+	- Ausbeinen
+- Konfrontation oder Unterstütung
+	- Grenzen überschreiten kippt
+		- Überraschende gewaltätige auseinandersetzung
+- Giftdolch/Giftfinger
+	- Fingernägel schleifen
+- Unterstützung
+	- Familie
+		- Eine Grenze
+	- Tierwesen
+		- Kann mit Tierwesen kommunizieren
